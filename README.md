@@ -64,6 +64,8 @@ It's probably under Applications → Accessories → Terminal, or Applications �
 
 ***Attention***: Deleting files using **del**, **rmdir** or **rm** is irrecoverable, meaning the deleted files will be gone forever! So be very careful with this command.
 
+cd "location"  --  location can be directly entered and you can go directly to the required location 
+
 These are just a very few of the commands you can run in your command line.
 
 If you're curious, [ss64.com](ss64.com) contains a complete reference of commands for all operating systems.
